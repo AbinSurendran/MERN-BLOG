@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema(
     profilePicture: {
       type: String,
       default:
-        "https://www.bing.com/images/search?view=detailV2&ccid=GHGGLYe7&id=203A81A51E21F9EC418A806CE1E50DB226AD5D00&thid=OIP.GHGGLYe7gDfZUzF_tElxiQHaHa&mediaurl=https%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fProfile.png&exph=1200&expw=1200&q=profile+icon&simid=608027336668549634&FORM=IRPRST&ck=415AF21371F6346F72E6674E068EE1B4&selectedIndex=11&itb=1",
+        "https://th.bing.com/th/id/OIP.qLa3losZziN2liZcbris4QAAAA?rs=1&pid=ImgDetMain",
     },
   },
   { timestamps: true }
